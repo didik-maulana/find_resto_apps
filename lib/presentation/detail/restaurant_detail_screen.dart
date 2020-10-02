@@ -196,6 +196,7 @@ class _RestaurantDetailScreenState extends State<RestaurantDetailScreen> {
                 'Contact',
                 restaurant.phoneNumbers,
               ),
+              SizedBox(height: 24.0),
             ],
           ),
         ),
