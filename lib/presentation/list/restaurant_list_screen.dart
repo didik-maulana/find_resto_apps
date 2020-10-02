@@ -190,8 +190,8 @@ class _RestaurantListScreenState extends State<RestaurantListScreen> {
         child: Row(
           children: [
             ShimmerView(
-              width: 80.0,
-              height: 80.0,
+              width: 100.0,
+              height: 100.0,
             ),
             Expanded(
               child: Padding(
@@ -201,26 +201,22 @@ class _RestaurantListScreenState extends State<RestaurantListScreen> {
                   children: [
                     ShimmerView(
                       width: double.infinity,
-                      height: 12.0,
-                    ),
-                    SizedBox(height: 4.0),
-                    ShimmerView(
-                      width: double.infinity,
-                      height: 32.0,
+                      height: 20.0,
                     ),
                     SizedBox(height: 8.0),
-                    Row(
-                      children: [
-                        ShimmerView(
-                          width: 100.0,
-                          height: 12.0,
-                        ),
-                        Spacer(),
-                        ShimmerView(
-                          width: 40.0,
-                          height: 12.0,
-                        ),
-                      ],
+                    ShimmerView(
+                      width: double.infinity,
+                      height: 12.0,
+                    ),
+                    SizedBox(height: 8.0),
+                    ShimmerView(
+                      width: double.infinity,
+                      height: 12.0,
+                    ),
+                    SizedBox(height: 24.0),
+                    ShimmerView(
+                      width: 50.0,
+                      height: 12.0,
                     ),
                   ],
                 ),
