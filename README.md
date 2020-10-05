@@ -24,6 +24,7 @@ Design : [Figma](https://www.figma.com/file/ORI5N9lNLENQt3EjOajNIF/FindResto?nod
 * [x] Create list, search, and detail page
 * [x] Implementation BLoC pattern
 * [ ] Implementation Modularize
+* [ ] Implementation Dependency Injection
 * [ ] Add Favorite with Local Database
 * [ ] Support dynamic theme and dark mode
 * [ ] Reminder with Notification
