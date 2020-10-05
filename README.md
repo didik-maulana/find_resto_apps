@@ -20,6 +20,17 @@ Design : [Figma](https://www.figma.com/file/ORI5N9lNLENQt3EjOajNIF/FindResto?nod
 | 6. | Restaurant Detail Scrolling |<img src="https://github.com/didik-maulana/find_resto_apps/blob/main/documentation/detail_scroll.png" width="200">|
 
 
+## Todo
+* [x] Create list, search, and detail page
+* [x] Implementation BLoC pattern
+* [ ] Implementation Modularize
+* [ ] Add Favorite with Local Database
+* [ ] Support dynamic theme and dark mode
+* [ ] Reminder with Notification
+* [ ] Add Unit Testing
+* [ ] Integration with CI/CD
+* [ ] Remove boilerplate BLoC
+
 ## Package Dependencies
 - [http](https://pub.dev/packages/http)
 - [rxdart](https://pub.dev/packages/rxdart)
